@@ -29,7 +29,8 @@
 
 <img width="539" height="158" alt="image" src="https://github.com/user-attachments/assets/46af05e9-5421-49aa-be6e-07b82002672a" />
 
-**Client terhubung ke internet **
+
+**Client terhubung ke internet**
 
 ELendil
 
