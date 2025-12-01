@@ -7,6 +7,11 @@
 
 ## Pengerjaan
 
+## TOPOLOGI
+
+<img width="649" height="382" alt="image" src="https://github.com/user-attachments/assets/3b6ea374-b8a9-45f1-878b-ca423c1d1ee7" />
+
+
 ## Misi 1
 
 ### Soal 1
