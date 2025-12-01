@@ -11,6 +11,8 @@
 
 ### Soal 1
 
+<img width="640" height="119" alt="image" src="https://github.com/user-attachments/assets/1e0eb1c7-f5fe-4c18-97c9-e016efd524aa" />
+
 
 ### Soal 2
 
