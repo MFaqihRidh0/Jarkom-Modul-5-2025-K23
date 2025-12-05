@@ -16,19 +16,42 @@
 
 ### Soal 1
 
+Identifikasi Perangkat:
+
+Narya: Berfungsi sebagai DNS Server.
+Vilya: Berfungsi sebagai DHCP Server.
+Web Servers: Palantir  dan IronHills.
+Client (Pasukan):
+Khamul: 5 host (Target/Burnice).
+Cirdan: 20 host (Lycaon).
+Isildur: 30 host (Policeboo).
+Durin: 50 host (Caesar).
+Gilgalad: 100 host (Ellen).
+Elendil: 200 host (Jane).
+
+
 <img width="640" height="119" alt="image" src="https://github.com/user-attachments/assets/1e0eb1c7-f5fe-4c18-97c9-e016efd524aa" />
 
 ### Soal 2
 
+Setelah membagi alamat IP menggunakan VLSM (Prefix IP sesuai kelompok), gambarkan pohon subnet yang menunjukkan hierarki pembagian IP di jaringan Aliansi. Lingkari subnet yang akan dilewati.
+
 <img width="2659" height="1270" alt="Tree VLSM  bagus" src="https://github.com/user-attachments/assets/954a6927-1610-4a58-9e5d-2b571bb1a039" />
 
 ### Soal 3
+
+Buatlah konfigurasi rute untuk menghubungkan semua subnet dengan benar. Pastikan perangkat dapat saling terhubung.
 
 <img width="337" height="446" alt="image" src="https://github.com/user-attachments/assets/0f091e91-8e53-45ec-844a-279f29dfbe77" />
 
 ## Misi 2
 
 ### Soal 1
+
+Agar jaringan Aliansi bisa terhubung ke luar (Valinor/Internet), konfigurasi routing menggunakan iptables.
+
+Syarat: Kalian TIDAK DIPERBOLEHKAN menggunakan target MASQUERADE. 
+
 
 **Osgiliath terhubung dengan internet**
 
